@@ -1,5 +1,7 @@
 #+title: nba
 
+support this project through [[https://github.com/sponsors/ccleberg][github sponsors]].
+
 * what
 python package. command-line interface to nba scores, standings,
 stat leaders, playoff picture, and live box scores. one-shot mode
